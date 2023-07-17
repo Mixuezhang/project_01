@@ -1,8 +1,10 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import login from './view/login/login.vue'
+</script>
 
 <template>
   <div>
-    <pagination></pagination>
+    <login></login>
   </div>
 </template>
 
